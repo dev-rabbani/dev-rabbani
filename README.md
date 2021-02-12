@@ -29,3 +29,12 @@
 ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 <br/>
+
+## **Coding status -**
+
+<p align = "center">
+<img src="https://github-readme-stats.vercel.app/api?username=rabbani6020&count_private=true&include_all_commits=true&show_icons=true&theme=gotham&line_height=27&hide_border=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rabbani6020&show_icons=true&hide=html,css&theme=gotham&line_height=27&hide_border=true">
+
+</p>
