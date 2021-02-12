@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> This is Md.Golam Rabbani from Dhaka, Bangladesh I'm Frontend engineer. To work in a friendly, learning, and innovative environment to utilize my analytical and technical skills to make a glorious contribution to human development.
+> This is Md.Golam Rabbani from Dhaka, Bangladesh I'm Frontend engineer. I'm good at some technologies like as HTML5, CSS3, Bootstrap, Sass, PSD/XD/Figma to HTML, Responsive web design,Javascript, React.JS, jQuery, WordPress, and Git. I'm not expert all but I know how to use by helping on Google and others blog website.
 
 ###### Here are some ideas to get you started:
 
@@ -10,4 +10,4 @@
 - 💬 Responsive designer.
 - 📫 React.JS fan.
 - 😄 Quick solve bug.
-- ⚡ Fun fact: ...
+- ⚡ Love to traveling & eat new thing. 
