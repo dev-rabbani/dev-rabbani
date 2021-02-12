@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-> To work in a friendly, learning, and innovative environment to utilize my analytical and technical skills to make a
-glorious contribution to human development
+> This is Md.Golam Rabbani from Dhaka, Bangladesh I'm Frontend engineer. To work in a friendly, learning, and innovative environment to utilize my analytical and technical skills to make a glorious contribution to human development.
 
 ###### Here are some ideas to get you started:
 
