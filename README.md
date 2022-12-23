@@ -28,7 +28,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=563D7C)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
-![AntDesign](https://img.shields.io/badge/-AntDesign-0081CB?style=plastic&logo=AntDesign)
+![AntDesign](https://img.shields.io/badge/-AntDesign-0081CB?style=plastic&logo=AntDesign&logoColor=563D7C)
 ![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=Storybook&logoColor=563D7C)&nbsp;
 ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-333333?style=flat&logo=TestingLibrary&logoColor=563D7C)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=563D7C)&nbsp;
