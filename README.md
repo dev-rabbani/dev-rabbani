@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-> This is Md.Golam Rabbani from Dhaka, Bangladesh I'm Frontend engineer. I'm good at some technologies like as HTML5, CSS3, Bootstrap, Sass, PSD/XD/Figma to HTML, Responsive web design,Javascript, React.JS, jQuery, WordPress, and Git. I'm not expert all but I know how to use by helping on Google and others blog website.
+> This is Md.Golam Rabbani from Dhaka, Bangladesh I'm Frontend Software Engineer. I'm good at some technologies like as HTML5, CSS3, Scss, Tailwind Css, Bootstrap, PSD/XD/Figma to HTML/React/Next, Javascript, React.JS, Next.Js, Testing-library, Jest, Storybook, WordPress Gutenberg and Git. I'm not expert all but I know how to use by helping on Google and others blog website.
 
 ###### Here are some ideas to get you started:
 
-- 🔭 To wirte love code.
-- 🌱 Expert Frontend development.
+- 🔭 Love to write code.
+- 🌱 Expert Frontend Development.
 - 🤔 Javascript lover.
 - 💬 Responsive designer.
 - 📫 React.JS fan.
@@ -21,12 +21,18 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=1572B6)&nbsp;
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=1572B6)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=563D7C)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
-![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=plastic&logo=material-UI)
+![AntDesign](https://img.shields.io/badge/-AntDesign-0081CB?style=plastic&logo=AntDesign)
+![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=Storybook&logoColor=563D7C)&nbsp;
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-333333?style=flat&logo=TestingLibrary&logoColor=563D7C)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=563D7C)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=563D7C)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 <br/>
 
