@@ -21,18 +21,18 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=1572B6)&nbsp;
-![tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-333333?style=flat&logo=SASS&logoColor=cf649a)&nbsp;
+![tailwindcss](https://img.shields.io/badge/-tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=38bdf8)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=7952b3)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=563D7C)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript&logoColor=3178c6)&nbsp;
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)&nbsp;
-![AntDesign](https://img.shields.io/badge/-AntDesign-0081CB?style=plastic&logo=AntDesign&logoColor=563D7C)
-![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=Storybook&logoColor=563D7C)&nbsp;
-![Testing-Library](https://img.shields.io/badge/-TestingLibrary-333333?style=flat&logo=TestingLibrary&logoColor=563D7C)&nbsp;
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=563D7C)&nbsp;
-![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=563D7C)&nbsp;
+![AntDesign](https://img.shields.io/badge/-AntDesign-333333?style=flat&logo=AntDesign&logoColor=1677ff)
+![Storybook](https://img.shields.io/badge/-Storybook-333333?style=flat&logo=Storybook&logoColor=ff4785)&nbsp;
+![Testing-Library](https://img.shields.io/badge/-TestingLibrary-333333?style=flat&logo=TestingLibrary&logoColor=d73f3e)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=c13c43)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-333333?style=flat&logo=wordpress&logoColor=ffffff)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 <br/>
 
