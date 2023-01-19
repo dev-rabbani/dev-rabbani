@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-> This is Md.Golam Rabbani from Dhaka, Bangladesh I'm Frontend Software Engineer. I'm good at some technologies like as HTML5, CSS3, Scss, Tailwind Css, Bootstrap, PSD/XD/Figma to HTML/React/Next, Javascript, React.JS, Next.Js, Testing-library, Jest, Storybook, WordPress Gutenberg and Git. I'm not expert all but I know how to use by helping on Google and others blog website.
+> This is Md.Golam Rabbani from Dhaka, Bangladesh I'm Frontend Software Engineer. I'm good at some technologies like as HTML5, Scss, Tailwind Css, React.JS, Next.Js, Testing-library, Jest, Storybook, PSD/XD/Figma to HTML/React/Next, Javascript, WordPress Gutenberg and Git. I'm not expert all but I know how to use by helping on Google and others blog website.
 
 ###### Here are some ideas to get you started:
 
